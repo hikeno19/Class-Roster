@@ -1,0 +1,8 @@
+﻿  main.cpp
+  roster.cpp
+  student.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 841 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Class_Roster.vcxproj -> C:\Users\hiken\OneDrive\Desktop\projects\Class_Roster\x64\Release\Class_Roster.exe
